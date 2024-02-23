@@ -1,0 +1,20 @@
+name: capstone
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - missingno
+  - plotly
+  - bokeh
+  - xgboost
+  - lightgbm
+  - yellowbrick
+  - imbalanced-learn
