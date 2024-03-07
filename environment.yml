@@ -10,11 +10,4 @@ dependencies:
   - seaborn
   - scipy
   - scikit-learn
-  - statsmodels
-  - missingno
-  - plotly
-  - bokeh
-  - xgboost
-  - lightgbm
-  - yellowbrick
-  - imbalanced-learn
+  
